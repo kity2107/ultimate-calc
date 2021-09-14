@@ -1,0 +1,23 @@
+const botonesSimbolos = [
+  { id: 1, simb: "M+", oper: 1 },
+  { id: 2, simb: "7", oper: 0 },
+  { id: 3, simb: "4", oper: 0 },
+  { id: 4, simb: "1", oper: 0 },
+  { id: 5, simb: ".", oper: 1 },
+  { id: 6, simb: "M", oper: 1 },
+  { id: 7, simb: "8", oper: 0 },
+  { id: 8, simb: "5", oper: 0 },
+  { id: 9, simb: "2", oper: 0 },
+  { id: 10, simb: "0", oper: 0 },
+  { id: 11, simb: "M-", oper: 1 },
+  { id: 12, simb: "9", oper: 0 },
+  { id: 13, simb: "6", oper: 0 },
+  { id: 14, simb: "3", oper: 0 },
+  { id: 15, simb: "=", oper: 1 },
+  { id: 16, simb: "/", oper: 1 },
+  { id: 17, simb: "-", oper: 1 },
+  { id: 18, simb: "+", oper: 1 },
+  { id: 19, simb: "x", oper: 1 },
+  { id: 20, simb: "C", oper: 1 },
+];
+export default botonesSimbolos;
